@@ -11,7 +11,7 @@ import time
 
 # True: Both players are AI
 # False: User plays player 1 (Blue tile)
-both_ai = True
+both_ai = False
 
 # Depth level for minimax algorithm
 depth = 3
